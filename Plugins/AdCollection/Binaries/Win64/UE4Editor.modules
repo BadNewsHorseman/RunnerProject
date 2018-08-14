@@ -1,0 +1,11 @@
+{
+	"BuildId": "4212847",
+	"Modules": 
+	{
+		"AdCollection": "UE4Editor-AdCollection.dll",
+		"AdCollectionEditor": "UE4Editor-AdCollectionEditor.dll",
+		"AdMob": "UE4Editor-AdMob.dll",
+		"ChartBoost": "UE4Editor-ChartBoost.dll",
+		"Unity": "UE4Editor-Unity.dll"
+	}
+}
